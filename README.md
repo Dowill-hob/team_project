@@ -78,7 +78,8 @@
 
 ### 4. 전력사용량 대비 태양광발전량 (2020년 기준) 시/도 별 태양광발전 설비현황(2023년 기준)
 
-![image](https://github.com/user-attachments/assets/5f522f1d-84fb-4419-ac94-fe1bad1a1c71) ![4](https://github.com/user-attachments/assets/41cf0d3b-d9a9-49ed-86be-c8fbec7b7816)
+![image](https://github.com/user-attachments/assets/5f522f1d-84fb-4419-ac94-fe1bad1a1c71) |![4](https://github.com/user-attachments/assets/41cf0d3b-d9a9-49ed-86be-c8fbec7b7816)
+---|---|
 
 * 전 지역 발전량에서 태양광 발전량이 몇 % 인지 확인 가능한 데이터이다.
 * 이 데이터에는 추가로 팝업에 그래프를 넣어 더욱 시각화를 극대화 했다.
